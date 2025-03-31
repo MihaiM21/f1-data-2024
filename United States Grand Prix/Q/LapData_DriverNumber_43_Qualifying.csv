@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+COL,1.0,,SOFT,1.0,1,28.5,39.2,40.0,1005.5,2.0,176
+COL,2.0,,SOFT,2.0,1,28.5,39.2,41.0,1005.6,2.4,180
+COL,3.0,94.062,SOFT,2.0,1,28.5,39.2,41.0,1005.6,1.8,169
+COL,4.0,119.785,SOFT,2.0,1,28.5,39.1,41.0,1005.5,2.1,170
+COL,5.0,,SOFT,3.0,1,28.4,39.0,41.0,1005.6,1.3,186
+COL,6.0,135.289,SOFT,3.0,1,28.4,39.1,40.0,1005.5,1.8,158

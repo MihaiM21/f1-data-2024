@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+OCO,1.0,,MEDIUM,1.0,1,28.3,37.6,41.0,1002.4,4.0,167
+OCO,2.0,95.178,MEDIUM,1.0,1,28.3,37.6,40.0,1002.4,4.2,154
+OCO,3.0,131.882,MEDIUM,1.0,1,28.3,37.1,40.0,1002.4,4.9,179
+OCO,4.0,,MEDIUM,2.0,1,28.3,37.0,40.0,1002.5,3.6,154
+OCO,5.0,94.917,MEDIUM,2.0,1,28.1,36.8,40.0,1002.5,4.1,154
+OCO,6.0,125.893,MEDIUM,2.0,1,28.0,36.6,41.0,1002.4,3.8,163
