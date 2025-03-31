@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+MAG,1.0,,INTERMEDIATE,1.0,1,12.4,19.4,83.0,986.6,1.2,216
+MAG,2.0,97.805,INTERMEDIATE,1.0,1,12.4,19.6,85.0,986.7,1.6,261
+MAG,3.0,,INTERMEDIATE,1.0,125,12.4,20.5,84.0,986.7,1.7,246
+MAG,4.0,,SOFT,2.0,1,12.6,20.8,83.0,986.6,1.6,201
+MAG,5.0,92.905,SOFT,2.0,1,12.6,21.3,83.0,986.7,1.5,86
+MAG,6.0,121.708,SOFT,2.0,1,12.8,21.1,82.0,986.8,0.7,0

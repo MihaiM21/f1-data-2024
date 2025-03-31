@@ -1,0 +1,6 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+PER,1.0,,INTERMEDIATE,1.0,1,12.4,19.4,83.0,986.6,1.2,216
+PER,2.0,98.348,INTERMEDIATE,1.0,1,12.4,19.6,85.0,986.7,1.6,261
+PER,3.0,126.177,INTERMEDIATE,1.0,1,12.4,20.5,84.0,986.7,1.7,246
+PER,4.0,100.541,INTERMEDIATE,1.0,1,12.6,20.8,83.0,986.6,1.6,201
+PER,5.0,,SOFT,2.0,125,12.6,21.3,83.0,986.7,1.5,86
