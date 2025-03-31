@@ -1,0 +1,4 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+SAI,1.0,,SOFT,1.0,1,14.1,18.0,60.0,1013.3,0.9,194
+SAI,2.0,112.579,SOFT,1.0,1,14.0,18.0,61.0,1013.3,1.5,195
+SAI,3.0,147.469,SOFT,1.0,1,14.0,18.0,62.0,1013.3,1.1,178

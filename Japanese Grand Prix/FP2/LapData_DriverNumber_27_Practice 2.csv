@@ -1,0 +1,6 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+HUL,1.0,,SOFT,1.0,1,14.1,18.0,60.0,1013.3,0.9,194
+HUL,2.0,109.473,SOFT,1.0,1,14.0,18.0,61.0,1013.3,1.5,195
+HUL,3.0,,SOFT,2.0,1,14.0,18.0,62.0,1013.3,1.1,178
+HUL,4.0,115.179,SOFT,2.0,1,14.0,18.0,62.0,1013.3,1.2,186
+HUL,5.0,148.205,SOFT,2.0,1,14.0,18.0,62.0,1013.3,1.4,181

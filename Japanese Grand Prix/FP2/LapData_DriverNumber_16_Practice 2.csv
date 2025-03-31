@@ -1,0 +1,5 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+LEC,1.0,,SOFT,1.0,1,14.1,18.0,60.0,1013.3,0.9,194
+LEC,2.0,98.76,SOFT,1.0,1,14.0,18.0,61.0,1013.3,1.5,195
+LEC,3.0,132.382,SOFT,1.0,1,14.0,18.0,62.0,1013.3,1.1,178
+LEC,4.0,130.795,SOFT,1.0,1,14.0,18.0,62.0,1013.3,1.2,186
