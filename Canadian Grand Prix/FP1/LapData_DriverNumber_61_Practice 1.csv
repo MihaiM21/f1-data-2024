@@ -1,0 +1,3 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+DOO,1.0,,WET,1.0,125,17.3,27.5,88.0,999.5,0.7,241
+DOO,2.0,126.267,SOFT,2.0,12,17.3,27.3,87.0,999.4,1.5,245

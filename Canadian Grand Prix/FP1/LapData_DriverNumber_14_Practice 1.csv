@@ -1,0 +1,4 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+ALO,1.0,,INTERMEDIATE,1.0,1,17.3,27.5,88.0,999.5,0.7,241
+ALO,2.0,103.703,SOFT,2.0,1,17.3,27.3,87.0,999.4,1.5,245
+ALO,3.0,93.411,SOFT,2.0,12,17.3,27.0,88.0,999.4,0.6,256

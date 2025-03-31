@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+PIA,1.0,103.126,WET,1.0,12,17.3,27.5,88.0,999.5,0.7,241
+PIA,2.0,,WET,1.0,125,17.3,27.3,87.0,999.4,1.5,245
+PIA,3.0,,INTERMEDIATE,2.0,12,17.3,27.0,88.0,999.4,0.6,256
+PIA,4.0,96.964,SOFT,3.0,1,17.2,27.1,87.0,999.3,0.4,236
+PIA,5.0,91.626,SOFT,3.0,1,17.3,27.2,87.0,999.4,1.0,264
+PIA,6.0,86.754,SOFT,3.0,12,17.4,27.1,87.0,999.4,0.7,238
