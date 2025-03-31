@@ -1,0 +1,6 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+ZHO,1.0,121.121,HARD,1.0,1,21.0,42.1,52.0,978.1,0.5,217
+ZHO,2.0,112.099,HARD,1.0,1,20.6,42.1,53.0,978.0,1.1,0
+ZHO,3.0,,HARD,1.0,1,20.6,42.2,52.0,978.0,0.7,284
+ZHO,4.0,112.376,HARD,1.0,1,20.7,42.0,51.0,978.1,1.4,244
+ZHO,5.0,133.633,HARD,1.0,1,20.7,41.1,51.0,978.1,1.2,13
