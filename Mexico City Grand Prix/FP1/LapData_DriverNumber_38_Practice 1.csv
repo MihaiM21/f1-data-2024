@@ -1,0 +1,8 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+BEA,1.0,,HARD,1.0,1,17.8,42.1,57.0,785.1,0.9,130
+BEA,2.0,99.383,HARD,1.0,1,17.8,42.4,56.0,785.2,2.0,153
+BEA,3.0,,HARD,1.0,152,17.9,42.5,56.0,785.1,1.2,140
+BEA,4.0,,HARD,2.0,1,17.9,42.8,57.0,785.2,3.6,141
+BEA,5.0,83.397,HARD,2.0,1,17.7,43.0,57.0,785.0,1.9,131
+BEA,6.0,81.256,HARD,2.0,1,17.6,43.0,56.0,785.1,2.7,138
+BEA,7.0,,HARD,2.0,125,17.6,43.0,56.0,785.1,2.3,120

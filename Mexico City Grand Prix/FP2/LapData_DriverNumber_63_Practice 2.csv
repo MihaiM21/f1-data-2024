@@ -1,0 +1,5 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+RUS,1.0,,TEST_UNKNOWN,1.0,21,22.8,42.9,27.0,783.2,0.9,267
+RUS,2.0,79.041,TEST_UNKNOWN,1.0,1,22.9,42.7,27.0,783.3,1.9,292
+RUS,3.0,141.104,TEST_UNKNOWN,1.0,1,22.9,42.6,26.0,783.3,2.5,274
+RUS,4.0,,TEST_UNKNOWN,1.0,125,22.8,42.5,27.0,783.3,1.8,324

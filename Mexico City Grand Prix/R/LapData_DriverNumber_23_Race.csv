@@ -1,0 +1,2 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+ALB,1.0,,MEDIUM,1.0,124,18.1,33.1,55.0,786.5,2.3,311

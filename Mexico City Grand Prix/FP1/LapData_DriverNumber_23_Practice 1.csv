@@ -1,0 +1,8 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+ALB,1.0,,HARD,1.0,1,17.8,42.1,57.0,785.1,0.9,130
+ALB,2.0,81.677,HARD,1.0,1,17.8,42.4,56.0,785.2,2.0,153
+ALB,3.0,116.416,HARD,1.0,12,17.9,42.5,56.0,785.1,1.2,140
+ALB,4.0,79.812,HARD,1.0,1,17.9,42.8,57.0,785.2,3.6,141
+ALB,5.0,128.224,HARD,1.0,1,17.7,43.0,57.0,785.0,1.9,131
+ALB,6.0,99.815,HARD,1.0,1,17.6,43.0,56.0,785.1,2.7,138
+ALB,7.0,,HARD,1.0,125,17.6,43.0,56.0,785.1,2.3,120
