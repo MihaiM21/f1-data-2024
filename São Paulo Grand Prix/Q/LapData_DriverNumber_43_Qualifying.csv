@@ -1,0 +1,6 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+COL,1.0,,WET,1.0,12,19.9,22.3,95.0,927.5,0.6,229
+COL,2.0,93.45,WET,1.0,12,19.9,22.2,95.0,927.5,0.6,185
+COL,3.0,91.27,WET,1.0,21,19.9,22.2,95.0,927.4,0.7,213
+COL,4.0,117.713,WET,1.0,1,19.9,22.3,95.0,927.4,0.6,0
+COL,5.0,,WET,1.0,125,19.9,22.3,95.0,927.5,0.5,197
