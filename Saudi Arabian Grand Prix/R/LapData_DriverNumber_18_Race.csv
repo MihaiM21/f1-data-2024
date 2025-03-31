@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+STR,1.0,102.429,MEDIUM,1.0,1,25.5,33.6,67.0,1012.0,2.6,342
+STR,2.0,96.094,MEDIUM,1.0,1,25.5,33.6,67.0,1012.0,1.9,20
+STR,3.0,95.79,MEDIUM,1.0,1,25.5,33.4,67.0,1012.0,2.4,21
+STR,4.0,95.735,MEDIUM,1.0,1,25.5,33.3,67.0,1012.0,2.3,22
+STR,5.0,95.56,MEDIUM,1.0,1,25.5,33.3,67.0,1012.0,2.6,23
+STR,6.0,,MEDIUM,1.0,1,25.5,33.5,67.0,1012.1,2.5,12
