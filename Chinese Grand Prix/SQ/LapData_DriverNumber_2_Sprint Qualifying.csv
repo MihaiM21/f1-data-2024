@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+SAR,1.0,,MEDIUM,1.0,1,20.3,28.9,32.0,1006.2,0.0,0
+SAR,2.0,98.332,MEDIUM,1.0,1,20.3,28.7,32.0,1006.2,0.0,99
+SAR,3.0,128.26,MEDIUM,1.0,1,20.3,28.7,32.0,1006.1,0.4,114
+SAR,4.0,,MEDIUM,2.0,1,20.3,28.7,32.0,1006.2,0.6,128
+SAR,5.0,97.923,MEDIUM,2.0,1,20.3,28.7,32.0,1006.2,0.6,128
+SAR,6.0,127.112,MEDIUM,2.0,12,20.2,28.7,32.0,1006.1,1.4,153

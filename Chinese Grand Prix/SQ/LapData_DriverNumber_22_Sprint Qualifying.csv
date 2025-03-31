@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+TSU,1.0,,MEDIUM,1.0,1,20.3,28.9,32.0,1006.2,0.0,0
+TSU,2.0,102.0,MEDIUM,1.0,1,20.3,28.7,32.0,1006.2,0.0,99
+TSU,3.0,132.894,MEDIUM,1.0,1,20.3,28.7,32.0,1006.1,0.4,114
+TSU,4.0,142.18,MEDIUM,1.0,1,20.3,28.7,32.0,1006.2,0.6,128
+TSU,5.0,97.892,MEDIUM,1.0,1,20.3,28.7,32.0,1006.2,0.6,128
+TSU,6.0,121.736,MEDIUM,1.0,12,20.2,28.7,32.0,1006.1,1.4,153

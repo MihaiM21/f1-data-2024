@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+HAM,1.0,,SOFT,1.0,1,22.1,35.5,57.0,1007.2,1.7,267
+HAM,2.0,96.607,SOFT,1.0,1,22.0,35.5,57.0,1007.1,2.1,280
+HAM,3.0,122.568,SOFT,1.0,1,21.9,35.0,56.0,1007.1,2.9,262
+HAM,4.0,,SOFT,2.0,1,22.0,34.8,57.0,1007.1,2.2,262
+HAM,5.0,95.573,SOFT,2.0,12,22.0,34.9,57.0,1007.1,1.7,262
+HAM,6.0,134.595,SOFT,2.0,1,22.0,35.1,57.0,1007.1,1.6,260
