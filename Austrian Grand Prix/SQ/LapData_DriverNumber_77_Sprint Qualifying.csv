@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+BOT,1.0,,MEDIUM,1.0,1,27.3,41.9,42.0,940.3,0.8,134
+BOT,2.0,66.725,MEDIUM,1.0,1,27.2,41.0,42.0,940.3,0.6,348
+BOT,3.0,116.825,MEDIUM,1.0,1,27.2,40.7,43.0,940.3,0.5,0
+BOT,4.0,117.174,MEDIUM,2.0,1,27.3,40.7,44.0,940.3,0.6,314
+BOT,5.0,66.709,MEDIUM,2.0,1,27.4,42.5,43.0,940.3,0.7,13
+BOT,6.0,92.706,MEDIUM,2.0,1,27.5,43.0,43.0,940.3,0.7,346

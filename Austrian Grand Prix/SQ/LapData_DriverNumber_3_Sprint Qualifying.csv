@@ -1,0 +1,7 @@
+Driver,LapNumber,LapTime,Compound,Stint,TrackStatus,AirTemperature,TrackTemperature,Humidity,Pressure,WindSpeed,WindDirection
+RIC,1.0,,MEDIUM,1.0,1,27.3,41.9,42.0,940.3,0.8,134
+RIC,2.0,66.89,MEDIUM,1.0,1,27.2,41.0,42.0,940.3,0.6,348
+RIC,3.0,93.478,MEDIUM,1.0,1,27.2,40.7,43.0,940.3,0.5,0
+RIC,4.0,,MEDIUM,2.0,1,27.3,40.7,44.0,940.3,0.6,314
+RIC,5.0,66.581,MEDIUM,2.0,1,27.4,42.5,43.0,940.3,0.7,13
+RIC,6.0,93.522,MEDIUM,2.0,12,27.5,43.0,43.0,940.3,0.7,346
